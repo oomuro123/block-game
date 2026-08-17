@@ -17,7 +17,7 @@ BGMは再生しない仕様にしています。
 
 
 ## URL
-ここにGitHub PagesのURL
+https://oomuro123.github.io/block-game/
 
 ## 利用方法
 
